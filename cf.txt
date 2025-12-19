@@ -1,0 +1,7 @@
+  apiKey: "AIzaSyAlEDfIh-R9LWP1zYTSuLqyaV-O8kTqPao",
+  authDomain: "mes-pdc.firebaseapp.com",
+  projectId: "mes-pdc",
+  storageBucket: "mes-pdc.firebasestorage.app",
+  messagingSenderId: "950509692448",
+  appId: "1:950509692448:web:a48b395a96d1cecd287e45",
+  measurementId: "G-RQLPRZVWG4"
