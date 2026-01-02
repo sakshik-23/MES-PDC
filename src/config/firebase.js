@@ -27,8 +27,10 @@ const PUBLIC_DATA = `artifacts/${appId}/public/data`;
 export const COLLECTIONS = {
   USERS: `${PUBLIC_DATA}/users`,
   REPORTS: `${PUBLIC_DATA}/reports`,
+  STUDENTS: `${PUBLIC_DATA}/students`,
   OTPS: `${PUBLIC_DATA}/otps`,
   QUESTIONNAIRES: `${PUBLIC_DATA}/questionnaires`,
   RESPONSES: `${PUBLIC_DATA}/responses`,
-  EVENTS: `${PUBLIC_DATA}/events` // NEW COLLECTION
+  EVENTS: `${PUBLIC_DATA}/events`,
+  SCHEDULES: `${PUBLIC_DATA}/schedules` // NEW COLLECTION
 };
